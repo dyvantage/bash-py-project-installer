@@ -17,7 +17,7 @@ set -o pipefail
 start_time=$(date +"%s.%N")
 
 package_name="Example-Package"
-package_repo="github.com/platform9/Example-Package"
+package_repo="github.com/DyVantage/Example-Package"
 
 
 assert() {
